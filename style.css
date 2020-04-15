@@ -1,0 +1,18 @@
+body {
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1em;
+    margin: auto;
+}
+
+.goat-mode {
+    font-family: ;
+    background-image: url(https://images2.minutemediacdn.com/image/upload/c_crop,h_998,w_1500,x_0,y_3/v1555172614/shape/mentalfloss/iStock-177369626_1.jpg?itok=-6zkh1tt);
+    color: blanchedalmond;
+    font-size: 2em;
+}
+
+.gold-background {
+    background-color: black;
+    margin: 1em;
+}
